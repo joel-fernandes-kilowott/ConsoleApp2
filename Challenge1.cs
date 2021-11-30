@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApp2
 {
-    internal class Challenge
+    internal class Challenge1
     {
         public static void ShowOutput()
         {

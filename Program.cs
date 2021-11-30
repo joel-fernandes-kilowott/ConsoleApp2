@@ -13,7 +13,7 @@ namespace ConsoleApp2
             Console.Write("the second ");
             Console.Write("line.");
 
-            Challenge.ShowOutput();
+            Challenge1.ShowOutput();
         }
     }
 }
